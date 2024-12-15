@@ -1,0 +1,1 @@
+Developed CI/CD pipeline
